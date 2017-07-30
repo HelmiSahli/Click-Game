@@ -1,0 +1,14 @@
+html {
+     background-image: url("background.png");
+     border-style: solid;
+     border-color: white;
+      text-align: center;
+     
+}
+h2,ol {
+    color: white;
+    text-align: center;
+}
+#game{
+	color:white;
+}
